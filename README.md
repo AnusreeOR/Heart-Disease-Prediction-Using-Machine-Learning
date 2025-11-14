@@ -37,7 +37,7 @@ Important predictive features:
    - Max Heart Rate (thalach)
 Logistic Regression provides easy interpretability. Useful for early screening and diagnosis support.
 
-# Conclusion
+## Conclusion
 - The project successfully predicted heart disease likelihood.
 - Logistic Regression gave reliable and interpretable results.
 - Can assist healthcare professionals in decision-making.
