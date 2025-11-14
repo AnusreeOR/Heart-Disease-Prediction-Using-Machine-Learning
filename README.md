@@ -35,6 +35,7 @@ Important predictive features:
    - Chest Pain Type (cp)
    - Cholesterol (chol)
    - Max Heart Rate (thalach)
+
 Logistic Regression provides easy interpretability. Useful for early screening and diagnosis support.
 
 ## Conclusion
